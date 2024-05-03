@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mhasanmiju
 - 👀 A learner and Tech enthusiast
 - 🌱 I’m currently learning LLM
-- 📫 How to reach me mail me at : mehedihasanmiju@gmail.com
+- 📫 How to reach me mail me at : mehedihasanmiju25@gmail.com
 
 
 <!---
