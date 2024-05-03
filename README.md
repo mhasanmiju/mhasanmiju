@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mhasanmiju
+- 👋 Hi, I’m Md. Mehedi Hasan Miju
 - 👀 A learner and Tech enthusiast
 - 🌱 I’m currently learning LLM
 - 📫 How to reach me mail me at : mehedihasanmiju25@gmail.com
