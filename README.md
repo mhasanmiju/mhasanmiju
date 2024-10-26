@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md. Mehedi Hasan Miju
 - 👀 A learner and Tech enthusiast
-- 🌱 I’m currently learning LLM and Big data technology
+- 🌱 I’m currently learning ML and Deep Learning
 - 📫 How to reach me mail me at : mehedihasanmiju25@gmail.com
 
 
